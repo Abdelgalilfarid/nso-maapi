@@ -1,7 +1,7 @@
 
-code by python 2.7, author jasonqi
+#code by python 2.7, author jasonqi
 
-Depend on ncs/nso/tailf framework, using yang model and java templet service,  create interface to deploy alu and cisco devices, including iosxr and alu:sr.
+#Depend on ncs/nso/tailf framework, using yang model and java templet service,  create interface to deploy alu and cisco devices, including iosxr and alu:sr.
 
 example:
 python ./test.py 
